@@ -62,11 +62,11 @@ A Convolutional Neural Network (CNN) with the following layers:
 ### Length of Reviews
 The distribution of the Training and Validation Accuracy Curve.
 
-![Training and Validation Accuracy](Length_of_review.png)
+![Training and Validation Accuracy](training_validation_accuracy.png)
 
 The distribution of the Training and Validation Loss Curve.
 
-![Training and Validation Loss](Length_of_review.png)
+![Training and Validation Loss](training_validation_loss.png)
 
 **Training accuracy stabilizes at** ~99%.
 
